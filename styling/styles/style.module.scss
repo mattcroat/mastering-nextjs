@@ -1,0 +1,7 @@
+$white: hsl(0, 0%, 98%);
+$hover-color: hsl(180, 100%, 25%);
+
+.title:hover {
+  color: $white;
+  background-color: $hover-color;
+}

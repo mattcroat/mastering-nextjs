@@ -1,0 +1,17 @@
+body {
+  background-color: hsl(200, 100%, 10%);
+}
+
+.title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: 100;
+  background-color: hsl(0, 0%, 92%);
+  padding: 6rem;
+  text-align: center;
+  transition: background-color 100ms ease-in;
+}
+
+.title:hover {
+  background-color: hsl(0, 0%, 80%);
+}
