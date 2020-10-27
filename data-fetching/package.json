@@ -1,0 +1,15 @@
+{
+  "name": "data-fetching",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "swr": "^0.3.6",
+    "unfetch": "^4.2.0"
+  }
+}
