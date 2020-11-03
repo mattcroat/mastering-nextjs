@@ -6,10 +6,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "@formspree/cli": "^0.9.5",
+    "@formspree/react": "^2.2.3",
     "@mdx-js/loader": "^1.6.19",
     "@next/mdx": "^10.0.0",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "theme-ui": "^0.3.1"
   }
 }
